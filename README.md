@@ -11,7 +11,7 @@ Currently: **v0.9.1**
 
 Add this line to your application's Gemfile:
 
-    gem 'backbone-validation-rails', git: 'git://github.com/zakusha/backbone-validation-rails.git'
+    gem 'backbone-validation-rails', git: 'git://github.com/jmadureira/backbone-validation-rails.git'
 
 Add this line to your application.js menifest:
 
